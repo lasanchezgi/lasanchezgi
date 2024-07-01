@@ -1,44 +1,43 @@
 
-# ¡Hola, soy Laura! 👋🏻
+# Hello, I'm Laura! 👋🏻
 
-¡Bienvenid@ a mi perfil de GitHub! 🤓
+Welcome to my GitHub profile! 🤓
 
-Soy una científica de datos junior con un trasfondo en ingeniería geológica y una gran pasión por la programación y el análisis de datos. Mi experiencia en geología ha impulsado mi fascinación por el mapeo y el análisis geoespacial, y ahora estoy dedicando mis habilidades a transformar datos en conocimientos accionables.
-
-
-## Sobre mí
-
-🎓 Graduada en ingeniería geológica, actualmente en transición a la ciencia de datos.
-
-💼 Buscando oportunidades, con un fuerte interés en el análisis geoespacial.
-
-🌱 Aprendiendo continuamente y mejorando mis habilidades en ciencia de datos.
-
-💬 Me encanta colaborar y compartir conocimientos con la comunidad de ciencia de datos.
+I am a data scientist with a background in geological engineering and a strong passion for programming and data analysis. My experience in geology has fueled my fascination with mapping and spatial analysis, and I am now dedicating my skills to transforming data into actionable insights.
 
 
-## Habilidades
+## About me
 
-- **Lenguajes de programación:** Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn), SQL
-- **Análisis geoespacial:** ArcGis, QGIS, GeoPandas, Folium
-- **Visualización de datos:** Matplotlib, Seaborn, Plotly
-- **Aprendizaje automático:** Regresión, Clasificación, Clustering
-- **Bases de datos:** Cloudera, HDFS, Hive, Hadoop
-- **Herramientas de control de versiones:** Git, GitHub
-- **Herramientas NoCode-LowCode:** Power Platform (Power BI, Power Apps y Power Automate)
+🎓 Graduated in Geological Engineering, currently transitioning to Data Science.
+
+💼 Seeking opportunities as a junior data scientist, with a keen interest in geospatial analysis.
+
+🌱 Continuously learning and improving my data science skills.
+
+💬 I love collaborating and sharing knowledge with the data science community.
 
 
-## Contacto
+## Skills
 
-¡No dudes en contactarme si tienes alguna pregunta, sugerencia o oportunidad de colaboración!
+- **Programming Languages:** Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn), SQL
+- **Geospatial Analysis:** ArcGis, QGIS, GeoPandas, Folium
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Machine Learning:** Regression, Classification, Clustering
+- **Databases:** Cloudera, HDFS, Hive, Hadoop
+- **Version Control Tools:** Git, GitHub
+- **Tools NoCode-LowCode:** Power Platform (Power BI, Power Apps y Power Automate)
+
+
+## Contact
+
+Feel free to reach out if you have any questions, suggestions, or collaboration opportunities!
 
 🤝🏻 LinkedIn: [Laura Sánchez Giraldo](https://www.linkedin.com/in/laurasanchezgiraldo)
 
 📧 Correo electrónico: [laurasanchezgiraldo@outlook.es](mailto:laurasanchezgiraldo@outlook.es)
 
 
-
-¡Gracias por tomar el tiempo para visitar mi perfil! Un abrazo 🤗
+Thank you for taking the time to visit my profile! Feel free to explore my projects and leave comments. I look forward to collaborating with you soon! 🤗
 
 <!---
 lasanchezgi/lasanchezgi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
