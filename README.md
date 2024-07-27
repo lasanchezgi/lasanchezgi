@@ -34,8 +34,6 @@ Feel free to reach out if you have any questions, suggestions, or collaboration 
 
 🤝🏻 LinkedIn: [Laura Sánchez Giraldo](https://www.linkedin.com/in/laurasanchezgiraldo)
 
-📧 Correo electrónico: [laurasanchezgiraldo@outlook.es](mailto:laurasanchezgiraldo@outlook.es)
-
 
 Thank you for taking the time to visit my profile! Feel free to explore my projects and leave comments. I look forward to collaborating with you soon! 🤗
 
