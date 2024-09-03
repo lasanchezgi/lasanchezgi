@@ -1,7 +1,7 @@
-# 💫 About Me:
+# 💫 About Me
 🎓 Graduated in Geological Engineering, currently transitioning to Data Science.<br>💼 Seeking opportunities as a junior data scientist, with a keen interest in geospatial analysis.<br>🌱 Continuously learning and improving my data science skills.<br>💬 I love collaborating and sharing knowledge with the data science community.
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,19 +28,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lasanchezgi&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lasanchezgi&theme=github_dark_dimmed&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=lasanchezgi&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lasanchezgi&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lasanchezgi&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lasanchezgi&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->s. I look forward to collaborating with you soon! 🤗
-
-<!---
-lasanchezgi/lasanchezgi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laurasanchezgiraldo) 
