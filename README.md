@@ -45,8 +45,6 @@ I continuously study ML/DL and agentic systems while shipping practical work. So
 ---
 
 ## 📈 GitHub stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lasanchezgi&theme=github_dark_dimmed&hide_border=false&layout=compact)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lasanchezgi&theme=github_dark_dimmed&hide_border=false)
-![Stats](https://github-readme-stats.vercel.app/api?username=lasanchezgi&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)
 
 
